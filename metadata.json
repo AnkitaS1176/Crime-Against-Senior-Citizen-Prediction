@@ -1,0 +1,5 @@
+{
+  "name": "Senior Citizen Crime Analytics India",
+  "description": "An interactive dashboard that visualizes and analyzes data on crimes against senior citizens in India from 2016-2022. It features various charts and leverages the Gemini API to generate data-driven insights and research findings.",
+  "requestFramePermissions": []
+}
